@@ -111,5 +111,6 @@ public class Main {
         System.out.println("Зарплата Дениса после повышения составит " + newSalaryDenis + " рублей. Годовой доход увеличится на " + salaryIncreaseDenisInYear + " рублей");
         System.out.println("Зарплата Кристины после повышения составит " + newSalaryMasha + " рублей. Годовой доход увеличится на " + salaryIncreaseKristinaInYear + " рублей");
 
+
     }
 }
